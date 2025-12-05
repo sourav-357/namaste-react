@@ -183,17 +183,4 @@
 
 ---
 
-# **12. Useful Extras**
-
-### 12.1 Optional Chaining
-
-1. `a?.b?.c` for API responses
-
-### 12.2 Nullish Coalescing
-
-1. `??` operator
-
-### 12.3 Events (JS logic for React events)
-
-1. Passing functions as callbacks
-2. Handling parameters inside functions
+# **12. Events in javascript**
