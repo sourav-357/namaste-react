@@ -4,6 +4,8 @@
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(heading);
 
+
+
 // putting child elements under child elements *************************************************************** //
 
 // const parent = React.createElement("div", { id: "parent" },
@@ -11,9 +13,11 @@
 //         React.createElement("h1", { id: "heading" }, "This is the main heading tag" )
 //     )
 // );
-const root = ReactDOM.createRoot(document.getElementById("root"));
+// const root = ReactDOM.createRoot(document.getElementById("root"));
 // console.log(parent);
 // root.render(parent);
+
+
 
 // Putting two or more child under one child elements ************************************************************** //
 
@@ -26,4 +30,3 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 // )
 // root.render(heading);
 
-//
